@@ -14,7 +14,7 @@ var bio = {
 		"SQL,", "HTML,", "JavaScript,", "R,", "SAS,", "Unix,", "Microsoft Office,", "Mac OSX,",
 		"Emergency Medicine"
 	],
-	"bioPic" : "images/fry.jpg"
+	"bioPic" : "images/profilepic.jpg"
 }
 
 var education = {
@@ -84,8 +84,8 @@ var projects = {
 			"dates" : "2014",
 			"description" : "There was a helper web page for collection agents to use that put numerous tools at their fingertips.  It was later determined that the page would have to be converted to be housed on our business' social network to prevent access issues.  I was tasked to convert the.",
 			"images" : [
-				"https://lh3.ggpht.com/23-sqOpOGqF06YX3BwIYPIXLX_Ma_clLXySKEHlphqlxr21-PPbC80U8SjDi96KTWbNjKfY2Pdq_gyFK9A=s300#w=1757&h=1080",
-				"https://lh3.ggpht.com/23-sqOpOGqF06YX3BwIYPIXLX_Ma_clLXySKEHlphqlxr21-PPbC80U8SjDi96KTWbNjKfY2Pdq_gyFK9A=s300#w=1757&h=1080"
+				"http://placekitten.com/g/300/300",
+				"http://placekitten.com/g/300/300"
 			]
 		},
 		{
@@ -93,8 +93,8 @@ var projects = {
 			"dates" : "2014",
 			"description" : "Again, I get stuff done",
 			"images" : [
-				"https://lh3.ggpht.com/23-sqOpOGqF06YX3BwIYPIXLX_Ma_clLXySKEHlphqlxr21-PPbC80U8SjDi96KTWbNjKfY2Pdq_gyFK9A=s300#w=1757&h=1080",
-				"https://lh3.ggpht.com/23-sqOpOGqF06YX3BwIYPIXLX_Ma_clLXySKEHlphqlxr21-PPbC80U8SjDi96KTWbNjKfY2Pdq_gyFK9A=s300#w=1757&h=1080"
+				"http://placekitten.com/g/300/300",
+				"http://placekitten.com/g/300/300"
 			]
 		}
 	]
